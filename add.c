@@ -4,7 +4,7 @@ int main()
 {
 	//逻辑上不会改变的变量放在程序上方，方便寻找，修改
 	//变量名一般使用大写 
-	const int UN_CHANGED = 10;
+	const int UN_CHANGED = 100;
 	
 	int a,b=0;
 	printf("请输入两个数字");
